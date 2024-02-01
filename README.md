@@ -15,6 +15,15 @@
 
 - ⚡ Dato curioso sobre mi **soy un apasionado aprendiz que aprovecha su curiosidad para explorar y adquirir conocimientos en áreas que realmente le interesan**
 
+- ## Educación
+
+- Técnico en Infraestructura en Informática y Sistemas de Información  
+  INSTITUTO DE FORMACION DOCENTE BELLA VISTA CTES.
+
+- Estudiante de Licenciatura en Sistemas de Información (4/5 año)  
+  UNIVERSIDAD NACIONAL DEL NORDESTE - Facultad de Ciencias Exactas, Naturales y Agrimensura (UNNE-FaCENA)
+
+
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
 <a href="https://dev.to/haberleslucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="haberleslucas" height="30" width="40" /></a>
