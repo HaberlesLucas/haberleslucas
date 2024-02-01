@@ -37,11 +37,11 @@
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
-<a href="https://dev.to/haberleslucas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="haberleslucas" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lucas-francisco-haberles-757a121a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-francisco-haberles-757a121a7/" height="30" width="40" /></a>
-<a href="https://fb.com/lucas.haberles.9/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucas.haberles.9/" height="30" width="40" /></a>
-<a href="https://instagram.com/haberles_lucas/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haberles_lucas/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/lucashaberles7244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lucashaberles7244" height="30" width="40" /></a>
+  <a href="https://dev.to/haberleslucas" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="haberleslucas" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/lucas-francisco-haberles-757a121a7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lucas-francisco-haberles-757a121a7/" height="30" width="40" /></a>
+  <a href="https://fb.com/lucas.haberles.9/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lucas.haberles.9/" height="30" width="40" /></a>
+  <a href="https://instagram.com/haberles_lucas/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haberles_lucas/" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/lucashaberles7244" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="lucashaberles7244" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguas y herramientas:</h3>
