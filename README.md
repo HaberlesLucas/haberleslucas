@@ -23,6 +23,15 @@
 - Estudiante de Licenciatura en Sistemas de Información (4/5 año)  
   UNIVERSIDAD NACIONAL DEL NORDESTE - Facultad de Ciencias Exactas, Naturales y Agrimensura (UNNE-FaCENA)
 
+## Cursos y Experiencias
+
+- Curso de Desarrollo Mobile  
+  **Start Coding IA**
+
+- Certificado en Programación de Inteligencia Artificial  
+  **ubatec - Laboratorio de Innovación de la Facultad de Derecho de la Universidad de Buenos Aires**
+
+
 
 <h3 align="left">Conecta conmigo:</h3>
 <p align="left">
