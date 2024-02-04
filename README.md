@@ -15,6 +15,8 @@
 
 - 📱 Visita mi perfil de Google Dev. https://g.dev/HaberlesLucas
 
+- 📘 También puedes encontrar mis contribuciones en Microsoft Learn [aquí](https://learn.microsoft.com/es-es/users/lucashaberles-7798/)
+
 - ⚡ Dato curioso sobre mi **soy un apasionado aprendiz que aprovecha su curiosidad para explorar y adquirir conocimientos en áreas que realmente le interesan**
 
 - ## Educación
