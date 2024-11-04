@@ -1,11 +1,11 @@
 <h1 align="center">Hola 👋, soy Lucas Haberles</h1>
-<h3 align="center">Un entusiasta desarrollador Móvil argentino</h3>
+<h3 align="center">Un entusiasta desarrollador argentino</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haberleslucas&label=Profile%20views&color=0e75b6&style=flat" alt="haberleslucas" /> </p>
 
 - 🔭 Actualmente estoy trabajando en [proyectos personales, aplicaciones móviles de comercios pequeños con bases de datos en servidor web](https://github.com/HaberlesLucas/Vaca-Manager-App)
 
-- 🌱 Actualmente estoy aprendiendo **Desarrollo móvil**
+- 🌱 Actualmente Estoy aprendiendo desarrollo móvil y también desarrollo web con tecnologías modernas, como React.
 
 - 🤝 Busco colaborar en **proyectos más complejos de desarrollo de aplicaciones móviles multiplataformas**
 
