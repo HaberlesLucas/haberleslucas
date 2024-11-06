@@ -13,7 +13,7 @@
 
 ## Educación
 - **Técnico en Informática y Sistemas** - Instituto de Formación Docente Bella Vista, Ctes.
-- **Licenciatura en Sistemas de Información** (4º año) - UNNE, FaCENA
+- **Licenciatura en Sistemas de Información** (5º año) - UNNE, FaCENA
 
 ## Experiencia y Certificaciones
 - Curso de Desarrollo Móvil en **Start Coding IA**
