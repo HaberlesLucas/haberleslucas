@@ -33,3 +33,12 @@
 - [Dev.to](https://dev.to/haberleslucas)
 - [LinkedIn](https://linkedin.com/in/lucas-haberles)
 - [YouTube](https://www.youtube.com/@lucashaberles7244)
+
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
