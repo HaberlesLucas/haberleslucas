@@ -8,7 +8,7 @@
 
 ## Proyectos destacados
 - [Tarefero – Google Play](https://play.google.com/store/apps/details?id=com.haberleslucas.yerbaapp) – App móvil para cultivo de yerba mate. Manejo offline/online, sincronización, reportes.  
-- [Vaca Manager App](https://github.com/HaberlesLucas/Vaca-Manager-App) – Gestión ganadera en Kotlin con SQLite.  
+- [Vaca Manager App](https://github.com/HaberlesLucas/Vaca-Manager-App/blob/main/README.pdf) – Gestión ganadera en Kotlin con SQLite.  
 - [App Android](https://github.com/HaberlesLucas/App-Android) – App práctica en Android nativo, RecyclerView y persistencia de datos.  
 
 ## 🎓 Educación
